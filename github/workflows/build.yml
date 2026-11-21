@@ -1,4 +1,4 @@
-name:.github/workflows/ Build HTML App Shell
+name: Build HTML App Shell
 
 # Builds the Android shell APK. Commit this file to a GitHub repo and the
 # build starts by itself. Download the result from the run's Artifacts.
